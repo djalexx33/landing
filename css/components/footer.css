@@ -1,0 +1,22 @@
+.footer {
+  text-align: center;
+  padding: 60px;
+  background-color: #2c2b2b;
+}
+
+.footer .fas {
+    color: #BF0F12;
+}
+
+.fa, .fas {
+    font-weight: 900;
+}
+
+.footer p {
+    color: #6B6C6C;
+}
+
+.footer .fab {
+    color: #79DF89;
+    font-size: 30px;
+}
